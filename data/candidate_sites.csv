@@ -1,0 +1,11 @@
+site,micro_market,lat,lon,population_k,income_lakh,footfall_k,competitors,rent_psf,accessibility
+Andheri West,Dense residential + high street,19.136,72.827,420,14,28,7,280,9
+Powai,IT/corporate + premium residential,19.118,72.905,260,22,18,3,210,6
+Bandra West,Affluent residential + lifestyle,19.060,72.836,300,30,32,9,450,8
+Lower Parel,Commercial + high-street hub,18.995,72.830,150,28,35,8,420,9
+Borivali West,Large middle-income residential,19.231,72.857,480,12,22,3,140,7
+Chembur,Established residential + local market,19.062,72.900,350,15,20,4,170,7
+Goregaon East,Residential + office corridor,19.165,72.857,330,17,21,4,190,8
+Mulund West,Suburban residential,19.172,72.942,310,16,16,2,150,6
+Malad West,Dense residential + mall belt,19.186,72.835,400,15,26,5,200,8
+Ghatkopar East,Rail-metro interchange residential,19.086,72.909,380,15,24,5,180,9
